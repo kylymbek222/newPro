@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "email": "marklyan@gmail.com",
+      "password": "$2a$10$zOyvbks0lrNXNDWAVTz3KOqOywH.Q2MSaBJ9oc3k.fVqFZmDpif8O",
+      "name": "Кылымбек",
+      "surname": "Токтобеков",
+      "job": "Разработчик",
+      "role": "Разработчик",
+      "level": "Делопроизводитель",
+      "login": "kylymbek",
+      "gender": "Мужской",
+      "systems": "КИС",
+      "id": 5,
+      "status": "true"
+    },
+    {
+      "email": "kylymbekkemin@gmail.com",
+      "password": "$2a$10$Zgk2X028rb9wM0O.BYf6UOsf5r/47AkbGzn63/fffF3.jvyAm088W",
+      "name": "Кылымбек",
+      "surname": "Токтобеков",
+      "job": "Разработчик",
+      "role": "Разработчик",
+      "level": "Делопроизводитель",
+      "login": "kylymbek",
+      "gender": "Мужской",
+      "systems": "КИС",
+      "status": "true",
+      "id": 11
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "Разработчик"
+    },
+    {
+      "id": 2,
+      "name": "Бухгалтер"
+    },
+    {
+      "id": 3,
+      "name": "Специалист делопроизводитель"
+    },
+    {
+      "id": 4,
+      "name": "Администратор систем"
+    },
+    {
+      "id": 5,
+      "name": "Аналитик"
+    },
+    {
+      "id": 6,
+      "name": "Руководитель проектов"
+    },
+    {
+      "id": 7,
+      "name": "Специалист материально-техническиого обеспечения"
+    },
+    {
+      "id": 8,
+      "name": "Администратор систем"
+    }
+  ],
+  "levels": [
+    {
+      "id": 1,
+      "name": "Делопроизводитель"
+    },
+    {
+      "id": 2,
+      "name": "Зам директор"
+    },
+    {
+      "id": 3,
+      "name": "Начальник"
+    },
+    {
+      "id": 4,
+      "name": "Исполнитель"
+    }
+  ],
+  "systems": [
+    {
+      "id": 1,
+      "name": "КИС"
+    }
+  ]
+}
